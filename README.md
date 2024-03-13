@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , i'm Ishini Ranasinghe 👋
 
 # 💫 About Me:
 <br>I'm a software engineering student at the University of Westminster, with a passion for web development 🌐 and machine learning 🤖. I'm committed to expanding my skills and knowledge in software engineering while working on projects that make a positive impact ✨. I'm thrilled about collaborating with like-minded individuals on exciting ventures!<br><br>I'm on the lookout for exciting opportunities to collaborate on innovative projects in web development 🌐 and machine learning 🤖. Whether it's crafting cutting-edge web applications or diving into the world of machine learning models, I'm enthusiastic about teaming up with fellow developers to make a real difference ✨.
